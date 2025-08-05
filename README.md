@@ -1,4 +1,5 @@
-# 🎬 Movie Analysis Project: Analysing Insights for a New Film Studio
+# Movie Analysis Project: 
+# Analysing Insights for a New Film Studio
 
 ## Overview
 
@@ -31,9 +32,8 @@ Using exploratory data analysis (EDA), this project identifies trends, risks, an
 
 ---
 
-##  
+Insights to study/focus on: 
 
-With many companies investing in original content, our company is launching a new movie studio. To ensure strong box office performance, leadership needs insights on:
 - What genres succeed commercially
 - What budget range is optimal
 - Which studios to benchmark
