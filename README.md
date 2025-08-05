@@ -46,19 +46,19 @@ Insights to study/focus on:
 - Standardized titles (lowercase)
 - Studied and concluded not to drop outliers due to a real-world analysis
 - Converted columns to the appropriate data types
-- Merged datasets on `title` and `year`
+- Merged datasets on title and year
 - Final dataset: > 1,000 movies between 2010-2018
 
 ---
 
 ## Key Columns Used
 
-- `production_budget` – Cost to produce the film
-- `worldwide_gross` – Total global revenue
-- `genres` – genre (Action, Comedy, etc.)
-- `studio` – Producing/distributing studio
-- `rating` – IMDb rating
-- `year` – Year of release
+- production_budget – Cost to produce the film
+- worldwide_gross – Total global revenue
+- genres – genre (Action, Comedy, etc.)
+- studio – Production studio
+- rating – IMDb rating
+- year – Year of release
 
 ---
 
@@ -80,7 +80,7 @@ Insights to study/focus on:
 - Having a high budget does not guarantee a high return. Therefore, it'll be a huge risk for a potential new studio.
 
 ### Ratings vs Revenue
-- The high ratings and popularity of a film does not guarantee high returns as well.
+- The high ratings and popularity of a film do not guarantee high returns as well.
 
 ---
 
